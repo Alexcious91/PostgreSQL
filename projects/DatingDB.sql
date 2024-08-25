@@ -186,9 +186,3 @@ LEFT JOIN seeking sk ON cs.seeking_id = sk.seeking_id
 SELECT * FROM seeking
 
 
-
-
-
-
-
-
